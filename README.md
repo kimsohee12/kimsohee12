@@ -21,7 +21,7 @@
 </p>
 
 #
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimsohee12)](https://github.com/kimsohee12/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimsohee12)
 
 </div>
 

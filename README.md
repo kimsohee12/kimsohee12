@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FFBF00&text=%20SOHEE&nbsp;GitHub&height=200&fontSize=80&fontColor=ffffff)
 
 
----
+
 <h3 align="center">📖 Tech Stack 📖</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/>&nbsp 
@@ -24,6 +24,9 @@
 <br/>
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimsohee12)
+<div align="center">
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimsohee12)
+  
+</div>
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=FFBF00&height=200&section=footer)
 

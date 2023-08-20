@@ -20,8 +20,8 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 </p>
 
-#
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimsohee12)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimsohee12&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=kimsohee12&show_icons=true">
 
 </div>
 

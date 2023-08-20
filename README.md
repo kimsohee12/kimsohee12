@@ -19,10 +19,7 @@
   <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 </p>
-<br><br> 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimsohee12&layout=compact"><br><br> 
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimsohee12)
 
 </div>
 

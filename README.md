@@ -24,7 +24,10 @@
 <br/>
 </div>
 
- 	<img align="center src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimsohee12&layout=compact"><br><br>
+<div  align="center">
+ 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimsohee12&layout=compact"><br><br>
+  
+</div>
 
   
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=FFBF00&height=200&section=footer)

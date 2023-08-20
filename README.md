@@ -24,9 +24,8 @@
 <br/>
 </div>
 
-<div align="center">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimsohee12)
+
+  ![Top Langs align="center"](https://github-readme-stats.vercel.app/api/top-langs/?username=kimsohee12)
   
-</div>
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=FFBF00&height=200&section=footer)
 

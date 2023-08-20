@@ -21,7 +21,6 @@
 </p>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimsohee12&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=kimsohee12&show_icons=true">
 
 </div>
 

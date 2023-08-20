@@ -1,6 +1,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FFBF00&text=%20SOHEE&nbsp;GitHub&height=200&fontSize=80&fontColor=ffffff)
 
+###sohee github 
+---
 <h3 align="center">📖 Tech Stack 📖</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/>&nbsp 

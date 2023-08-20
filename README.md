@@ -21,8 +21,7 @@
 </p>
 
 #
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kimsohee12&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimsohee12&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimsohee12)](https://github.com/kimsohee12/github-readme-stats)
 
 </div>
 
